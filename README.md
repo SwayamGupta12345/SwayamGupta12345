@@ -20,12 +20,16 @@ Here are some of the cool projects I'm working on or have completed:
 - **[Jaypee Learning Hub](https://jaypeelearninghub.great-site.net/index.php)**: Jaypee Learning Hub is a platform providing organized study resources like notes, lab materials, and previous year question papers, designed to make learning easier for students. It’s regularly updated and accessible on any device for a smooth studying experience.
 ---
 # 📊 GitHub Stats:
-### General Stats:
+### 🛠 General Stats:
 [![Commit Activity](https://github-readme-stats.vercel.app/api?username=SwayamGupta12345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SwayamGupta12345)
-### Streak Stats:
+### 🔥 Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SwayamGupta12345&theme=dark&short_numbers=true)](https://git.io/streak-stats)<br/>
-### Top Languages:
+### 🚀 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamGupta12345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📈 Contribution Graph
+[![Swayam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwayamGupta12345&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### ⚡ Recent Activity
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SwayamGupta12345&theme=tokyo-night)](https://github.com/SwayamGupta12345)
 
 ---
 
