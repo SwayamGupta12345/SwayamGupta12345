@@ -27,7 +27,7 @@ Here are some of the cool projects I'm working on or have completed:
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamGupta12345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SwayamGupta12345&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SwayamGupta12345&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ## 📫 How to Reach Me:
