@@ -30,7 +30,6 @@ Here are some of the cool projects I'm working on or have completed:
 [![Swayam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwayamGupta12345&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
 ## 📫 How to Reach Me:
 - ✉️ **Email**: swayamsam2005@gmail.com
 - 🌐 **LinkedIn**: [Swayam Gupta](https://www.linkedin.com/in/swayamgupta12)
