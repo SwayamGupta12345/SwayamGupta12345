@@ -6,7 +6,6 @@
 - 🌱 Currently learning **AI/ML**, **Backend Development**, and **Python-based UI Design**.
 - 💻 Working on personal and collaborative projects to gain practical experience in **real-time data systems**.
 - 👥 Volunteer at **AIML Hub**, organizing events and workshops to help students learn AI and machine learning.
-
 ---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swayamsam12345) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamgupta12) 
