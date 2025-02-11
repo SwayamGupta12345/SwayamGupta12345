@@ -22,7 +22,7 @@ Here are some of the cool projects I'm working on or have completed:
 ### 🛠 General Stats:
 [![Commit Activity](https://github-readme-stats.vercel.app/api?username=SwayamGupta12345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SwayamGupta12345)
 ### 🔥 Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=SwayamGupta12345&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SwayamGupta12345&theme=tokyonight&short_numbers=true)](https://github.com/SwayamGupta12345)
 ### 🚀 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayamGupta12345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 📈 Contribution Graph
